@@ -1,0 +1,12 @@
+{
+  "name": "repo-cop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "repo-cop": "lib/repo-cop.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.19.0"
+  }
+}
